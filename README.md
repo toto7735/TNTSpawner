@@ -1,6 +1,6 @@
 # TNTSpawner
 
-Plugin used in {YouTube Link} made by toto7735 with ❤
+Plugin used in https://youtu.be/tTY0pHsy11I made by toto7735 with ❤
 
 **Minecraft Version: 1.18.2**
 
@@ -13,7 +13,7 @@ This video uses a plugin made by toto with ❤
 Content & Plugin Idea: toto7735
 Plugin Author: toto7735
 
-Plugin Link: {Plugin Link}
-Original Video Link: {Video Link}
+Plugin Link: https://github.com/toto7735/TNTSpawner/releases/tag/1.0.0
+Original Video Link: https://youtu.be/tTY0pHsy11I
 ------------------------------------------------------
 ```
