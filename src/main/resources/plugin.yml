@@ -1,0 +1,5 @@
+name: TNTSpawner
+main: me.toto7735.tntSpawner.TNTSpawner
+version: 1.0
+api-version: 1.18
+author: toto7735
